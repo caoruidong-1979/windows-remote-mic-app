@@ -85,3 +85,7 @@ Chromecast 语音 / 按键链路的分层与数据流见 [docs/architecture-over
 ## 免责声明
 
 本项目仅供个人学习与研究使用，按“原样”提供，作者不承担因使用本软件产生的任何后果或损失。
+
+## 相关项目
+
+- [openclaw-plugin-moss-live](https://github.com/caoruidong-1979/openclaw-moss-live) — 把 MOSS-Live 全双工实时语音接入 OpenClaw；Roadmap：按住本遥控器的语音键直接与 OpenClaw AI 助手对话
