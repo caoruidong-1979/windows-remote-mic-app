@@ -1,6 +1,7 @@
 # 无线麦Mod（Win 版）
 
 把谷歌 Chromecast 蓝牙语音遥控器的按键和麦克风变成 Windows 快捷操作与语音输入工具。可远距离控制应用、输入文字、触发 Quicker 动作。
+
 ![Release](https://img.shields.io/github/v/release/caoruidong-1979/windows-remote-mic-app?display_name=tag&include_prereleases) ![License](https://img.shields.io/badge/license-GPL--3.0--only-blue) ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6) ![Python](https://img.shields.io/badge/Python-3.13%2B-3776AB)
 
 > 🌐 **English**: Turn a Google Chromecast Bluetooth voice remote into a Windows macro & voice-input controller — trigger hotkeys, Quicker actions and voice typing from your couch.
